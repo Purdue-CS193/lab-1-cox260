@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+## Aaron's first CS193 Lab
 Hello
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### List of Favorite Things about CS 193
 
+- 1 credit hour
+- gives me information about clubs and events related to CS
+- Has some pretty good TA's giving lectures and running labs
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
